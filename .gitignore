@@ -220,6 +220,7 @@ Desktop.ini
 # Maven Wrapper
 ######################
 !.mvn/wrapper/maven-wrapper.jar
+.mvn/
 
 ######################
 # ESLint
